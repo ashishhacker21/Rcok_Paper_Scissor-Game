@@ -14,7 +14,7 @@ Required --> install python in your system.<br>
 step 1 : copy repository link and clone in your system.<br>
 step 2 : simply run spr_game.py.<br>
 step 3 : if you want to play just press 1.<br>
-step 4 : if you want to play just press 2.<br>
+step 4 : if you want to quit just press 2.<br>
 Important :give input carefully enter correct spelling.<br>
 
 
