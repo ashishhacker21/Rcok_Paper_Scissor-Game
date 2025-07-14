@@ -8,7 +8,7 @@ Beginer level simple command-line based Rock_Paper_Scissor game.
 1 - continue and quit according to yours<br>
 2 - check your input spelling<br>
 3 - some decorationa for good view<br>
-4 - win and lose judge perfectly
+4 - judge win and lose perfectly
 # Use :
 Required --> install python in your system.<br>
 step 1 : copy repository link and clone in your system.<br>
