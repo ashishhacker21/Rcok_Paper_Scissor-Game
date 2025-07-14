@@ -2,7 +2,7 @@
 **Ashish Kumar**  
 GitHub: [@ashishhacker21](https://github.com/ashishhacker21)
 
-# Rcok_Paper_Scissor-Game
+# Rock_Paper_Scissor-Game
 Beginer level simple command-line based Rock_Paper_Scissor game.
 # Functionality :
 1 - continue and quit according to yours<br>
