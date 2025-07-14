@@ -1,5 +1,4 @@
 # Author:
-Ashish kumar
 **Ashish Kumar**  
 GitHub: [@ashishhacker21](https://github.com/ashishhacker21)
 
